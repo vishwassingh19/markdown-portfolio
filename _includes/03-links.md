@@ -1,1 +1,1 @@
-my Github profile (https://vishwassingh19.github.io/markdown-portfolio/)
+[my Github profile] (https://vishwassingh19.github.io/markdown-portfolio/)
